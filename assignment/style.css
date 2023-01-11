@@ -11,18 +11,32 @@
 /* Change the font-family of your list */
 
 body {
-    background-color: antiquewhite;
+    background-color: salmon;
 }
 
 header {
-
+    background-color: rgba(213, 39, 24, 0.5);
 }
 
 footer {
-
+    background-color: rgba(351, 190, 170, 0.5)
 }
 
 img {
     height: 500px;
     width: 300px;
+    border: 7px dashed plum;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    color: darkslategrey;
+    font-style: italic;
+}
+
+ul li {
+    font-family: "Roboto Mono", Georgia, serif;
 }
