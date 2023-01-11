@@ -13,9 +13,10 @@
 # 6 - What is a quick way to create a new file?
     touch (file name)
 # 7 - Run 'git --version' in your terminal. What is the output?
-    
+    2.37.1 (apple Git-137.1)
 # 8 - Why would you run the command 'git status'?
-
+    To see what has been staged so far.
 # 9 - What does the command 'git add .' do?
-
+    Stages all the changes made to the file(s) to be pushed to Github
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+    git push origin main
