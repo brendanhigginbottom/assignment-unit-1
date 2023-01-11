@@ -9,3 +9,20 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+body {
+    background-color: antiquewhite;
+}
+
+header {
+
+}
+
+footer {
+
+}
+
+img {
+    height: 500px;
+    width: 300px;
+}
